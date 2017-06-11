@@ -1,0 +1,86 @@
+[
+  {
+    "title": "aries",
+    "descr": " FROM SERVERas  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, officia!",
+    "img": 0,
+    "imgInfo": 1,
+    "mark": 1
+  },
+  {
+    "title": "taurus",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, saepe.",
+    "img": 1,
+    "imgInfo": 1,
+    "mark": 1
+  },
+  {
+    "title": "gemini",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, culpa.",
+    "img": 2,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "cancer",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, accusantium?",
+    "img": 3,
+    "imgInfo": 1,
+    "mark": 1
+  },
+  {
+    "title": "leo",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, cum.",
+    "img": 4,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "virgo",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, ipsum.",
+    "img": 5,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "libra",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, pariatur?",
+    "img": 6,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "scorpio",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, minima.",
+    "img": 7,
+    "imgInfo": 1,
+    "mark": 1
+  },
+  {
+    "title": "sagittarius",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, modi.",
+    "img": 8,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "capricorn",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, sunt.",
+    "img": 9,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "aquarius",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, repellat.",
+    "img": 10,
+    "imgInfo": 1,
+    "mark": 0
+  },
+  {
+    "title": "pisces",
+    "descr": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, necessitatibus!",
+    "img": 11,
+    "imgInfo": 1,
+    "mark": 0
+  }
+]
